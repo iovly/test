@@ -1,7 +1,6 @@
 package com.hyf.git.testgit;
 
 /**
- * Hello world!first progrem
  *
  */
 public class App 
